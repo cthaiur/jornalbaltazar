@@ -1,0 +1,23 @@
+/* App.css */
+.card {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+  
+.card:hover {
+  transform: scale(1.05);
+}
+  
+/* Adicionar ao seu arquivo de estilo (se necessário) */
+.sponsor-slider {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.sponsor-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.sponsor-card:hover {
+  transform: scale(1.05);
+}
